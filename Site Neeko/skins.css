@@ -1,0 +1,32 @@
+body{
+    background-image: url('neeko.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#menu{
+	float:right;
+	margin-top:30px;
+
+}
+#menu a{
+	text-decoration: none;
+	color:black;
+	text-shado: 1px 1px 1px #111111;
+	padding: 15px 15px;
+}
+
+#menu a:hover{
+	background-color:#5a5a5a;
+	color:rgb(156, 115, 221);
+}
+img{
+    text-align: center;
+}
+h1{
+    padding-top: 30px;
+    text-align: center;
+}
+h2{
+    padding-top: 30px;
+    text-align: center;
+}
